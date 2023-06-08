@@ -1,0 +1,3 @@
+#!/bin/bash
+chown-h vimcent:staff _hello
+
