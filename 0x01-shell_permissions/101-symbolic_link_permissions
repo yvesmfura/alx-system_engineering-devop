@@ -1,2 +1,2 @@
 #!/bin/bash
-chown-h vimcent:staff _hello
+chown vincent:staff _hello
